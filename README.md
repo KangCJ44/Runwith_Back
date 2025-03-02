@@ -6,8 +6,6 @@
 기술: AWS EC2, AWS RDS, Flutter, MySQL, SpringBoot
 날짜: 2024년 3월 4일 → 2024년 6월 18일
 
-![image.png](image.png)
-
 # 📝 기획
 
 ---
